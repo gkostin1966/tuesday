@@ -16,5 +16,13 @@ p {
 }
 
 img {
-    width: 100vw;
+    width: 50%;
+}
+
+body {
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    border-style: dashed;
+    border-color: blueviolet;
 }
