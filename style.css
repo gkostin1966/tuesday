@@ -1,0 +1,20 @@
+p {
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-family: 'fantasy';
+}
+
+.yellow {
+    background-color: yellow;
+    color: olive;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+img {
+    width: 100vw;
+}
